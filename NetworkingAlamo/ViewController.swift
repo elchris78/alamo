@@ -10,6 +10,8 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    var probandoGit = ""
+    
     override func viewDidLoad() {
         super.viewDidLoad()
     }
