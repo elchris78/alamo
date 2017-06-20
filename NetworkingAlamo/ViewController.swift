@@ -11,6 +11,7 @@ import UIKit
 class ViewController: UIViewController {
     
     var probandoGit2: Bool!
+    var agregandoNuevaVariable = ""
     
     override func viewDidLoad() {
         super.viewDidLoad()
