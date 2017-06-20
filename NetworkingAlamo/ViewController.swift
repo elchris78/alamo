@@ -9,8 +9,8 @@
 import UIKit
 
 class ViewController: UIViewController {
-
-    var probandoGit = ""
+    
+    var probandoGit2: Bool!
     
     override func viewDidLoad() {
         super.viewDidLoad()
